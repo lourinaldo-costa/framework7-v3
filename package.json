@@ -10,7 +10,7 @@
   "keywords": [
     "ecosystem:cordova"
   ],
-  "author": "Apache Cordova Team",
+  "author": "Lourinaldo Team",
   "license": "Apache-2.0",
   "dependencies": {
     "cordova-android": "^8.0.0",
